@@ -16,17 +16,11 @@ This is a Flutter project that served as a valuable learning experience for me. 
 
 This project was a valuable journey in mobile app development. It allowed me to apply my knowledge and learn new skills along the way. Building features like past trip display, activity management, and user profiles enriched my understanding of app architecture and user experience.
 
-## Acknowledgments
-
-I extend thanks to all contributors and online resources, especially [Mr. Brown](https://www.example.com/mrbrown), for invaluable guidance.
-
 ## Tech Tools Used
 
 Throughout this journey, I relied on:
 
-- **Computer:** The foundation for all work.
-
-- [**VSCode**](https://code.visualstudio.com/): My coding ally.
+- [**VSCode**](https://code.visualstudio.com/): As a text editor.
 
 - **AWS Account:** Essential for cloud-based services.
 
