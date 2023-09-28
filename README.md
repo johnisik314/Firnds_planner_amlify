@@ -4,6 +4,8 @@
 
 This is a Flutter project that served as a valuable learning experience for me. Throughout this project, I had the opportunity to explore various aspects of mobile app development and integrate [AWS Amplify](https://aws.amazon.com/amplify/) for backend services.
 
+You can follow these steps to create your own app as starters; [Build a Flutter Mobile App Using AWS Amplify](https://aws.amazon.com/getting-started/hands-on/build-flutter-mobile-app-part-one/module-four/)
+
 ## Key Learnings
 
 - **AWS Integration:** I learned how to integrate AWS services into my Flutter project using the [Amplify CLI](https://docs.amplify.aws/cli). This allowed me to leverage powerful backend functionality for my app.
